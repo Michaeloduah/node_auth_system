@@ -1,0 +1,19 @@
+{
+  "name": "node_auth_system",
+  "version": "1.0.0",
+  "description": "An authenication system built with nodejs",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michaeloduah/node_auth_system.git"
+  },
+  "author": "Michael Oduah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michaeloduah/node_auth_system/issues"
+  },
+  "homepage": "https://github.com/Michaeloduah/node_auth_system#readme"
+}
